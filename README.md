@@ -1,5 +1,5 @@
-## Тестовое задание для Intelogis
+## Test task for Intelogis
 
-В проекте был использован Selenide и Allure с аттачами.
-Посмотреть отчет можно, запустив allureServe через Gradle.
-При доступе к Selenoid и Jenkins можно организовать безопасное использование credentials не из проекта, запись видео теста, запускать параметризованные тесты и многое другое.
+The project uses Selenide and Allure with attachments. 
+You can view the report by running allureServe via Gradle. 
+With Selenoid and Jenkins, you can securely use credentials from outside the project, record a test video, run parameterized tests, and much more.
